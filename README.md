@@ -1,6 +1,6 @@
 # eth_prinet_demo
 
-Tested on win10
+Tested on win10 and geth 1.81
 
 Create ethereum private network with single node
 
