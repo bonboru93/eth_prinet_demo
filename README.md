@@ -7,3 +7,7 @@ Create ethereum private network with single node
 Can be automatically attached by official Ethereum Wallet
 
 Download and put geth.exe into this file
+
+# bonboruFarm
+
+smart-farming contract
