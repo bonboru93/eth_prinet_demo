@@ -1,4 +1,4 @@
-# Ethreum private network with IoT device DEMO
+# Ethereum private network with IoT device DEMO
 ## Network Topology
 ![network topology][1]
 ## Node Configuration
