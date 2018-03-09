@@ -1,6 +1,8 @@
 # Ethereum private network with IoT device DEMO
 ## Network Topology
 ![network topology][1]
+## Easy Check
+![ethwallet sample screen][2]
 ## Node Configuration
 
 ### PC1(Windows)
@@ -74,3 +76,4 @@
 
 
   [1]: https://github.com/bonboru93/eth_prinet_demo/blob/master/topology.JPG
+  [2]: https://github.com/bonboru93/eth_prinet_demo/blob/master/sample.JPG
