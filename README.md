@@ -51,8 +51,8 @@
 ## Peer Connection
 
     [Under geth attached ipc console]
-    src: admin.nodeInfo
-    dst: admin.addPeer(enode://src_addr)
+    [src]admin.nodeInfo
+    [dst]admin.addPeer(enode://src_addr)
     
 ## Mining
     [Under geth attached ipc console]
