@@ -44,7 +44,7 @@
     [node_pi init ]./geth --datadir=./node_pi init ./genesis.json
     [node_pi start]./geth --datadir=./node_pi --nodiscover --rpc --rpcaddr 0.0.0.0 --rpcapi admin,debug,eth,miner,net,personal,rpc,txpool,web3
     [node6 attach ]./geth attach ./node_pi/geth.ipc
-    [node6 wallet(connection from PC1)]".\Ethereum Wallet.exe" --rpc [NODE_PI IP]:8545
+    [node6 wallet(connection from PC1)]".\Ethereum Wallet.exe" --rpc http://[NODE_PI IP]:8545
     
     [Download web3.py source code and compile, don't use 'pip install']
     
