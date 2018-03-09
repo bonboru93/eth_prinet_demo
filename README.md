@@ -52,7 +52,7 @@
 
     [Under geth attached ipc console]
     [src]admin.nodeInfo
-    [dst]admin.addPeer(enode://src_addr)
+    [dst]admin.addPeer("enode://src_addr")
     
 ## Mining
     [Under geth attached ipc console]
