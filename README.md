@@ -2,9 +2,13 @@
 ## Network Topology
 ![network topology][1]
 OS: including win, macos, debian
+
 Arch: including x86, arm
+
 Network: including vm_router, ap
+
 Env: including vm, docker
+
 
 ## GUI using official Ethereum Wallet
 ![ethwallet sample screen][2]
