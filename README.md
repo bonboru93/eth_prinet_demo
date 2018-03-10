@@ -9,6 +9,8 @@ Network: including vm_router, ap
 
 Env: including vm, docker
 
+Node: including single-machine-multi-node, vm-node, fast-sync mode
+
 
 ## GUI using official Ethereum Wallet
 ![ethwallet sample screen][2]
