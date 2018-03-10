@@ -1,7 +1,5 @@
 # Ethereum private network with IoT device DEMO
 
-[important]The official release of web3.py cannot work with 'geth --dev'
-
 ## Network Topology
 ![network topology][1]
 OS: including win, macos, debian
@@ -92,6 +90,8 @@ Node: including single-machine-multi-node, vm-node, fast-sync mode
     
 ## Sample monitor
     monitor.py
+    
+    [important]The official release of web3.py cannot work with 'geth --dev'
 
 
   [1]: https://github.com/bonboru93/eth_prinet_demo/blob/master/topology.JPG
