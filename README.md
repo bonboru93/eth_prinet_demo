@@ -74,6 +74,10 @@ Node: including single-machine-multi-node, vm-node, fast-sync mode
     [Type passphrase]
     eth.coinbase
     miner.start(1)// 1 core
+    
+## Brightness contract
+
+    bri.sol
 
 ## Sample brightness reader
 
