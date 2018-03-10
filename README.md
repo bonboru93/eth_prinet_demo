@@ -12,7 +12,7 @@ Env: including vm, docker
 Node: including single-machine-multi-node, vm-node, fast-sync mode
 
 
-## GUI using official Ethereum Wallet
+## Ethereum Wallet GUI
 ![ethwallet sample screen][2]
 
 ## Node Configuration
