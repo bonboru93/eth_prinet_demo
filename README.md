@@ -1,4 +1,7 @@
 # Ethereum private network with IoT device DEMO
+
+[important]The official release of web3.py cannot work with 'geth --dev'
+
 ## Network Topology
 ![network topology][1]
 OS: including win, macos, debian
