@@ -1,8 +1,14 @@
 # Ethereum private network with IoT device DEMO
 ## Network Topology
 ![network topology][1]
-## Easy Check
+OS: including win, macos, debian
+Arch: including x86, arm
+Network: including vm_router, ap
+Env: including vm, docker
+
+## GUI using official Ethereum Wallet
 ![ethwallet sample screen][2]
+
 ## Node Configuration
 
 ### PC1(Windows)
