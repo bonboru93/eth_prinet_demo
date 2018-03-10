@@ -87,11 +87,11 @@ Node: including single-machine-multi-node, vm-node, fast-sync mode
 ## Sample ethereum poster
 
     ethPoster.py
+[important]The official release of web3.py cannot work with 'geth --dev'
     
 ## Sample monitor
     monitor.py
     
-    [important]The official release of web3.py cannot work with 'geth --dev'
 
 
   [1]: https://github.com/bonboru93/eth_prinet_demo/blob/master/topology.JPG
