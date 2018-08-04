@@ -30,6 +30,8 @@ Node: including single-machine-multi-node, vm-node, fast-sync mode
     [node2 attach]geth attach ipc:\\.\pipe\node2
     [node2 wallet]".\Ethereum Wallet.exe" --rpc \\.\pipe\node2
     
+    [Add LES Support] geth --lightserv 90
+    
 ### VM1, VM2(Ubuntu)
 
     [node3 init  ]./geth --datadir=./node3 init ./genesis.json
